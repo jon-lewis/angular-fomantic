@@ -2,9 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
+## Getting Started
+
+Make sure you `npm install`. Then `npm start` and go to `http://localhost:4200`.
+
 ## Update UI Components
 
 Make sure you include any components that you need for your application in the semantic.json components section.
+
+## Build UI Components and Serve
+
+Run `npm start` to build the semantic css and start the application.
 
 ## Development server
 
