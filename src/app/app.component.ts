@@ -6,5 +6,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-fomantic';
+  public date:Date = new Date();
+
+  public unset():void {
+      this.date = undefined;
+  }
+
+  public today():void {
+      this.date = new Date();
+  }
 }

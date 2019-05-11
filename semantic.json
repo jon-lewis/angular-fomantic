@@ -18,14 +18,5 @@
   "permission": false,
   "autoInstall": false,
   "rtl": false,
-  "version": "2.7.4",
-  "components": [
-    "reset",
-    "site",
-    "button",
-    "container",
-    "dimmer",
-    "transition",
-    "calendar"
-  ]
+  "version": "2.7.4"
 }
